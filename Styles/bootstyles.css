@@ -1,7 +1,10 @@
 body{
     background-image: url('../Images/White\ sands.jpeg');
 }
-
+header{
+    background-color: aliceblue;
+    opacity: 90;
+}
 .headCenter{
     text-align: center;
     text-shadow: oldlace;
