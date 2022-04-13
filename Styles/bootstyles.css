@@ -1,0 +1,46 @@
+body{
+    background-image: url('../Images/White\ sands.jpeg');
+}
+
+.headCenter{
+    text-align: center;
+    text-shadow: oldlace;
+}
+
+/*!
+* This is for the captions given below the pictures
+*/
+.text{
+    font-size: larger;
+    color: rgb(25, 77, 129);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*!
+* This is for the captions given below the pictures
+*/
+.copyright{
+    font-size: larger;
+    color: rgb(84, 112, 112);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tableft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.tabright{
+    padding-right: 100px;
+}
+
+.sizing{
+    resize: both;
+}
+
+.space{
+    margin-top: 45px;
+    text-align: center;
+}
+h4{
+    background-color: aliceblue;
+}

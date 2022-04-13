@@ -1,0 +1,53 @@
+h1{
+    font-family:sans-serif
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.paddingSpace{
+    padding: 100px;
+}
+
+.custom1{
+    background-color: red;
+}
+.centered{
+    text-align: center;
+    list-style:inside;
+}
+
+.float{
+    float: right;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.picpad{
+    padding-right: 5px;
+}
+/*override 1 */
+a:hover{
+    color:deepskyblue;
+}
+/*override 2 */
+a:visited{
+    color: indigo;
+}
+/*override 3 */
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+/*override 4 */
+.li1{
+ margin-left: 50px;
+ margin-right: 100px;
+ text-align: left;
+ 
+}
